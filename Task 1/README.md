@@ -1,3 +1,4 @@
+![cropped-growmore-removebg-preview](https://user-images.githubusercontent.com/95522797/226996529-8ba11c9e-4d9f-432a-89cf-87fca06c9e0c.png)
 
 # Task 1 - Iris flowers classification
 
