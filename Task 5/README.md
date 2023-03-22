@@ -1,3 +1,4 @@
+![cropped-growmore-removebg-preview](https://user-images.githubusercontent.com/95522797/226997398-5aa91cf1-5ff4-4019-91c9-74d2c679265f.png)
 
 # Task 5 - Prediction using Decision Tree Algorithm
 
