@@ -1,3 +1,4 @@
+![cropped-growmore-removebg-preview](https://user-images.githubusercontent.com/95522797/226997129-2e6e77e5-7a7e-4b56-ae4e-516750b958c1.png)
 
 # Task 3 - Image to pencil sketch with Python
 
