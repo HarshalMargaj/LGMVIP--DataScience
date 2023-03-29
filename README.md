@@ -1,6 +1,9 @@
 # LGMVIP--DataScience
 
-![Artboard-1-1-removebg-preview-e1645900071758](https://user-images.githubusercontent.com/95522797/226533155-ef0f7e85-f211-44ac-9c1b-18b805381c3e.jpg)
+
+
+![cropped-growmore-removebg-preview](https://user-images.githubusercontent.com/95522797/226996289-0976c2b2-4e9a-482a-aa34-cd6ee160bd54.png)
+
 
 
 Data Science Intern - LetsGrowMore Virtual Internship Program 

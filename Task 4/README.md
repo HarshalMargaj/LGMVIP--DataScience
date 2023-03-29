@@ -1,3 +1,4 @@
+![cropped-growmore-removebg-preview](https://user-images.githubusercontent.com/95522797/226997221-a031ae59-6db3-4ee7-9795-16eb1c33fb3d.png)
 
 # Task 4 - Exploratory Data Analysis on Dataset - Terrorism
 
